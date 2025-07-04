@@ -13,3 +13,9 @@ git log  --> shows all commits
 
 # status
 git status
+
+# create new branch
+git branch branch_name
+
+# switch to new branch
+git checkout branch_name

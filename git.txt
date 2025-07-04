@@ -8,3 +8,8 @@ git add . (to add multiple files)
 # commit 
 git commit -m "meaningful message"
 
+# log
+git log  --> shows all commits
+
+# status
+git status

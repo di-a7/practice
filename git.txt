@@ -1,0 +1,10 @@
+# start git tracking
+git init   --> local empty git repo
+
+# add file to git
+git add file_name
+git add . (to add multiple files)
+
+# commit 
+git commit -m "meaningful message"
+

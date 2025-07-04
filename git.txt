@@ -13,3 +13,6 @@ git log  --> shows all commits
 
 # status
 git status
+
+# list out all the branch
+git branch
